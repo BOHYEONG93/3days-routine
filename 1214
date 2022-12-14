@@ -1,0 +1,6 @@
+오늘 한거 반복하기
+
+- git init
+- git add .
+- git commit -m"반복"
+- git push 
